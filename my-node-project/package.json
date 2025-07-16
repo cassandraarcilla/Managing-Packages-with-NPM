@@ -1,0 +1,13 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "description": "A basic Node.js project demonstrating package.json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": ["node", "npm", "package"],
+  "author": "Juan Dela Cruz",
+  "license": "ISC"
+}
